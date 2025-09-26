@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: maroon;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 15px;
+  padding: 40px;
+  line-height: 1.6;
+  background-color: white;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+}
+
+aside {
+  display: block;
+  flex: 1;
+  padding: 1rem;
+}
